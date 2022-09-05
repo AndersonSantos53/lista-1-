@@ -3,14 +3,13 @@ programa
 	
 	funcao inicio()
 	{
-				real n1,n2,n3,media
+		real n1,n2,n3,media
 		inteiro op
 		
 		escreva("\nEntre com a primeira nota: ")
 		leia(n1)
 		escreva("\nEntre com a segunda nota: ")
-		
-leia(n2)
+		leia(n2)
 		escreva("\nEntre com a terceira nota: ")
 		leia(n3)
 
